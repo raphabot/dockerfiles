@@ -16,7 +16,7 @@
 
 # ------------------------------------------------------------------------
 
-FROM ubuntu:latest
+FROM ubuntu:groovy-20210416
 MAINTAINER dev@wso2.org
 
 ENV DEBIAN_FRONTEND noninteractive
